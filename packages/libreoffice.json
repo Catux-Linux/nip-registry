@@ -1,0 +1,14 @@
+{
+  "name": "libreoffice",
+  "display_name": "LibreOffice",
+  "version": "25.2",
+  "description": "Free and powerful office suite",
+  "category": "Office",
+  "maintainer": "The Document Foundation",
+  "type": "appimage",
+  "source": {
+    "url": "https://download.documentfoundation.org/libreoffice/appimage/fresh/LibreOffice-fresh.standard-x86_64.AppImage",
+    "checksum": "CALCULATE_WITH: sha256sum LibreOffice-fresh.standard-x86_64.AppImage",
+    "type": "sha256"
+  }
+}
