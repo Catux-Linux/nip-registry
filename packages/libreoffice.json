@@ -7,8 +7,8 @@
   "maintainer": "The Document Foundation",
   "type": "appimage",
   "source": {
-    "url": "https://download.documentfoundation.org/libreoffice/appimage/fresh/LibreOffice-fresh.standard-x86_64.AppImage",
-    "checksum": "CALCULATE_WITH: sha256sum LibreOffice-fresh.standard-x86_64.AppImage",
+    "url": "https://appimages.libreitalia.org/LibreOffice-25.2.6.2.full-x86_64.AppImage",
+    "checksum": "sha256:cb0688138bd608f9c3e35a76c414aa0203330f3bf39e1e7ded49e08675c9b655",
     "type": "sha256"
   }
 }
