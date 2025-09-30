@@ -8,7 +8,7 @@
   "type": "appimage",
   "source": {
     "url": "https://download.kde.org/stable/krita/5.2.13/krita-5.2.13-x86_64.AppImage",
-    "checksum": "CALCULATE_WITH: sha256sum krita-5.2.13-x86_64.AppImage",
+    "checksum": "5fd9e52a25caa5cd7d3d3269898cceb1465b3ce497abd8eee0e84d7bd8668c91",
     "type": "sha256"
   }
 }
