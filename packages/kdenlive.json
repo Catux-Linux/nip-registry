@@ -1,0 +1,14 @@
+{
+  "name": "kdenlive",
+  "display_name": "Kdenlive",
+  "version": "25.08.1",
+  "description": "KDE Non-Linear Video Editor - Professional video editing",
+  "category": "AudioVideo",
+  "maintainer": "KDE",
+  "type": "appimage",
+  "source": {
+    "url": "https://download.kde.org/stable/kdenlive/25.08/linux/kdenlive-25.08.1-x86_64_A.AppImage",
+    "checksum": "CALCULATE_WITH: sha256sum kdenlive-25.08.1-x86_64_A.AppImage",
+    "type": "sha256"
+  }
+}

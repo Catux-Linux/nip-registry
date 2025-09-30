@@ -1,0 +1,14 @@
+{
+  "name": "inkscape",
+  "display_name": "Inkscape",
+  "version": "1.4",
+  "description": "Professional vector graphics editor",
+  "category": "Graphics",
+  "maintainer": "Inkscape Team",
+  "type": "appimage",
+  "source": {
+    "url": "https://inkscape.org/gallery/item/44616/Inkscape-091e20e-x86_64.AppImage",
+    "checksum": "CALCULATE_WITH: sha256sum Inkscape-091e20e-x86_64.AppImage",
+    "type": "sha256"
+  }
+}

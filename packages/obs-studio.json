@@ -1,0 +1,14 @@
+{
+  "name": "obs-studio",
+  "display_name": "OBS Studio",
+  "version": "30.2.2",
+  "description": "Free and open source software for video recording and live streaming",
+  "category": "AudioVideo",
+  "maintainer": "OBS Project",
+  "type": "appimage",
+  "source": {
+    "url": "https://github.com/ivan-hc/OBS-Studio-appimage/releases/download/continuous/obs-studio-x86_64.AppImage",
+    "checksum": "CALCULATE_WITH: sha256sum obs-studio-x86_64.AppImage",
+    "type": "sha256"
+  }
+}

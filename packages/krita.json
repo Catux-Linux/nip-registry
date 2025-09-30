@@ -1,0 +1,14 @@
+{
+  "name": "krita",
+  "display_name": "Krita",
+  "version": "5.2.13",
+  "description": "Professional FREE and open source painting program",
+  "category": "Graphics",
+  "maintainer": "KDE",
+  "type": "appimage",
+  "source": {
+    "url": "https://download.kde.org/stable/krita/5.2.13/krita-5.2.13-x86_64.AppImage",
+    "checksum": "CALCULATE_WITH: sha256sum krita-5.2.13-x86_64.AppImage",
+    "type": "sha256"
+  }
+}

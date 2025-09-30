@@ -1,0 +1,14 @@
+{
+  "name": "gimp",
+  "display_name": "GIMP",
+  "version": "3.0.4",
+  "description": "GNU Image Manipulation Program - Professional image editor",
+  "category": "Graphics",
+  "maintainer": "GIMP Team",
+  "type": "appimage",
+  "source": {
+    "url": "https://download.gimp.org/gimp/v3.0/linux/GIMP-3.0.4-x86_64.AppImage",
+    "checksum": "CALCULATE_WITH: sha256sum GIMP-3.0.4-x86_64.AppImage",
+    "type": "sha256"
+  }
+}
